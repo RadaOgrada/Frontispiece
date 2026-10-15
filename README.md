@@ -20,8 +20,9 @@ Needs Marinara Engine 2.5.0 or newer. Checked on desktop, iPad and iPhone.
 
 | | |
 |---|---|
-| ![Cat, Toe Beans](previews/cat-toe-beans-desktop.jpg) | ![Detective, Dusk](previews/detective-dusk-desktop.jpg) |
-| ![Forest, Warden](previews/forest-warden-desktop.jpg) | ![Forest on a phone](previews/forest-warden-phone.jpg) |
+| ![Cat, Toe Beans](previews/cat-toe-beans-desktop.jpg) | ![Cat, Toe Beans, panels open](previews/cat-toe-beans-panels.jpg) |
+| ![Forest, Warden](previews/forest-warden-desktop.jpg) | ![Forest, Warden, panels open](previews/forest-warden-panels.jpg) |
+| ![Detective, Dusk](previews/detective-dusk-desktop.jpg) | ![Detective, Dusk, panels open](previews/detective-dusk-panels.jpg) |
 
 ## 1. Install
 
