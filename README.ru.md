@@ -17,6 +17,12 @@
 
 Нужна Marinara Engine 2.5.0 или новее. Тема проверена на компьютере, iPad и iPhone. Интерфейс маринары английский, поэтому названия кнопок ниже даны так, как они там написаны.
 
+| | |
+|---|---|
+| ![Кот, Toe Beans](previews/cat-toe-beans-desktop.jpg) | ![Кот, Toe Beans, панели открыты](previews/cat-toe-beans-panels.jpg) |
+| ![Лес, Warden](previews/forest-warden-desktop.jpg) | ![Лес, Warden, панели открыты](previews/forest-warden-panels.jpg) |
+| ![Детектив, Dusk](previews/detective-dusk-desktop.jpg) | ![Детектив, Dusk, панели открыты](previews/detective-dusk-panels.jpg) |
+
 ## 1. Установка
 
 Маринара по умолчанию не даёт ставить сторонние расширения. Открыть это нужно один раз.
