@@ -69,6 +69,9 @@ face) → **Upload** → pick the file. Or a whole folder at once: **Upload Fold
 (`neutral.png`, `anger.png`, `shy.png`…). The Offstage extension picks the emotion if it is installed; without it the theme
 shows `neutral`. With no sprites at all, the theme shows the character's avatar.
 
+Emotion names Offstage uses: `anger`, `sadness`, `anxiety`, `fear`, `shy`, `tender`, `love`, `desire`, `playful`, `fun`,
+`cold`, `suspicion`, `jealousy`, `hurt`, `guilt`, `cruel`, plus `neutral`. A sprite with any other name won't be picked up.
+
 **Face square**: **Characters** → the character → **Metadata** → **Avatar** → **Avatar Crop**. Put the square around the head
 and press **Save**. The round avatars (phone, iPad, Conversation, chat list) show this square, and so does the persona card on
 desktop. For a persona the same: **Personas** → the persona → **Metadata** → **Avatar Crop**. Set the square after uploading
