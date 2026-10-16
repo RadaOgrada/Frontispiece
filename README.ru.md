@@ -30,7 +30,7 @@
 1. В папке маринары открой файл `.env` и поставь `ENABLE_EXTERNAL_EXTENSIONS=true`. Сохрани, подожди пару секунд.
 2. **Settings** (шестерёнка вверху) → вкладка **Advanced** → блок **Danger Zone** → включи **Allow third-party extension imports**
    → **I Understand, Enable**.
-3. **Settings** → **Addons** → **External Extensions** → **Import Extension File** → выбери `Frontispiece-1.0.0.personal-extension.zip` (раздел **Releases** справа на этой странице).
+3. **Settings** → **Addons** → **External Extensions** → **Import Extension File** → выбери `Frontispiece-1.0.1.personal-extension.zip` (раздел **Releases** справа на этой странице).
 4. У темы в списке нажми кнопку питания слева (**Review and run**) → **Run Exact Code**.
 5. Обнови страницу. Вверху появится кнопка темы (палитра) - в ней стиль, цвета и настройки.
 

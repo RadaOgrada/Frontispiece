@@ -32,7 +32,7 @@ Marinara doesn't allow third-party extensions by default. You open this once.
 2. **Settings** (the gear at the top) → **Advanced** tab → **Danger Zone** → turn on **Allow third-party extension imports**
    → **I Understand, Enable**.
 3. **Settings** → **Addons** → **External Extensions** → **Import Extension File** → pick
-   `Frontispiece-1.0.0.personal-extension.zip` (from **Releases** on the right of this page).
+   `Frontispiece-1.0.1.personal-extension.zip` (from **Releases** on the right of this page).
 4. On the theme's row, press the power button on the left (**Review and run**) → **Run Exact Code**.
 5. Reload the page. The theme's button (a palette) appears in the top bar: style, colours and settings are there.
 
